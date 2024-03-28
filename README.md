@@ -1,5 +1,5 @@
-# CoreDX
+# CoreDX JS
 
-## Framework-agnostic core developer experience for Visual Studio Code
+## Extends CoreDX for development with JavaScript/TypeScript and popular JavaScript frameworks
 
-Every non-language-specific extension you need to make VS Code minimally functional for daily use beyond its core features.
+A collection of JavaScript and TypeScript-related extensions to extend CoreDX (selfagency.coredx).
