@@ -1,46 +1,57 @@
 {
   "name": "coredx-js",
   "displayName": "CoreDX-JS",
-  "description": "Extends CoreDX for development with JavaScript/TypeScript and popular JS frameworks",
+  "description": "Extends CoreDX for development with JavaScript/TypeScript, Vue, and Svelte",
   "icon": "kitchen_sink.png",
   "author": "Daniel Sieradski <daniel@self.agency>",
   "publisher": "selfagency",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/selfagency/vsc-cored-jsx.git"
   },
   "engines": {
-    "vscode": "^1.87.2"
+    "vscode": "^1.100.0"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
-    "antfu.goto-alias",
+    "andrejunges.Handlebars",
+    "AndyGongea.update-now",
     "antfu.vite",
     "astro-build.astro-vscode",
+    "bierner.color-info",
     "bradlc.vscode-tailwindcss",
     "christian-kohler.npm-intellisense",
     "csstools.postcss",
     "dbaeumer.vscode-eslint",
+    "deque-systems.vscode-axe-linter",
+    "Enivia.oklch-decorator",
+    "Greenbyte.handlebars-preview",
     "henrynguyen5-vsc.vsc-nvm",
     "heybourn.headwind",
-    "kricsleo.vscode-package-json-inspector",
-    "macieklad.tailwind-sass-syntax",
-    "Orta.vscode-jest",
+    "inlang.vs-code-extension",
+    "MariusAlchimavicius.json-to-ts",
+    "Nuxtr.nuxtr-vscode",
+    "origin-space.shadcn-color-tool",
     "oven.bun-vscode",
+    "oxc.oxc-vscode",
     "pmneo.tsimporter",
-    "Prisma.prisma",
     "ririd.packages",
+    "sameer-dudeja.htmx-intellisense",
+    "samuelcolvin.jinjahtml",
+    "Selemondev.shadcn-vue",
+    "Selemondev.vscode-shadcn-svelte",
     "stringham.move-ts",
+    "stylelint.vscode-stylelint",
     "svelte.svelte-vscode",
     "TedisAgolli.hex-to-tailwind",
+    "TypeScriptTeam.native-preview",
     "unifiedjs.vscode-mdx",
     "unional.vscode-sort-package-json",
+    "vitest.explorer",
     "Vue.volar",
-    "WallabyJs.quokka-vscode",
-    "WallabyJs.wallaby-vscode",
-    "zhihaocui.ts-interface-sorter"
+    "vunguyentuan.vscode-css-variables"
   ]
 }
